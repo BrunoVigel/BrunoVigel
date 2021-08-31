@@ -6,16 +6,18 @@
 ###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoVigel&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVigel&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BrunoVigel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <div style="display: inline block"><br>
-  <img align="center" alt="Bruno-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Bruno-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   </div>
   
   <div style="display: inline block"><br>
