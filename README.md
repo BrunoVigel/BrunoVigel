@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno vigel 👋
 
-- 🔭 Trabalho com front-end
+- 🔭 Focado em front-end
 - 🌱 Estudando Javascript
 
 ###
