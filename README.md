@@ -9,7 +9,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVigel&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrunoVigel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
