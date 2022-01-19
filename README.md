@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Bruno vigel 👋
 
 - 🔭 Focado em front-end
-- 🌱 Estudando Javascript
+- 🌱 No momento estudando PHP
 
 ###
 
