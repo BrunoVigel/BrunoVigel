@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Bruno vigel 👋
 
-- 👨🏻‍💻 Desenvolvedor web na Voppi
-- 🌱 No momento estudando PHP
+- 🌱 No momento estudando React
 
 ###
 
