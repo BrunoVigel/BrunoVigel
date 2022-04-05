@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno vigel 👋
 
-- 🌱 No momento estudando React
+- 🌱 No momento estudando React e Typescript
 
 ###
 
