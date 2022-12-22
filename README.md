@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Bruno vigel 👋
 
-- Estudante de Análise e Desenvolvimento de Sistemas.😎
+- Estudante de Análise e Desenvolvimento de Sistemas.📚
+- Confira meu portfólio em <a href="https://brunovigel.vercel.app/" target="_blank">https://brunovigel.vercel.app/</a> 😎
 
 ###
 
@@ -11,7 +12,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BrunoVigel)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+Minha stack
 <div style="display: inline block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -24,10 +25,7 @@
   <img  align="center" alt="react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img  align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-
-  
-  </div>
+ </div>
   
   <div style="display: inline block"><br>
   <a href="https://www.instagram.com/brunovigel/?hl=pt-br" target="_blank">
